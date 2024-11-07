@@ -1,4 +1,5 @@
 # SmartSHM
+> ⚠️ **Note: This package is currently under development and incomplete. **
 
 [![Build Status](https://github.com/mashu/SmartSHM.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/mashu/SmartSHM.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
